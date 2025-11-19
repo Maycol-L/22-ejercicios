@@ -1,8 +1,8 @@
-# Algoritmo Acuerdo 
-# Solicitar las notas de los parciales
+
 nota1 = float(input("Nota del primer parcial: "))
 nota2 = float(input("Nota del segundo parcial: "))
 nota3 = float(input("Nota del tercero parcial: "))
 promedio = (nota1 + nota2 + nota3) / 3
 print("El promedio es:", promedio)
-# El promedio es
+
+
