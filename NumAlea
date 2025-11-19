@@ -1,0 +1,9 @@
+import random
+num = random.randrange(0, 200) 
+print("El número aleatorio de 0-200 es:", num)
+
+num30 = num * 0.3
+
+numA = num + num30
+
+print("El número aleatorio elevado un 30% es:", numA)
